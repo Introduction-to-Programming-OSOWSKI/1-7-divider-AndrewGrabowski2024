@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
 def divider(x,y):
-    return x/y
+    return x / y
 
-divder (5,2)
+print(divider (5,2))
